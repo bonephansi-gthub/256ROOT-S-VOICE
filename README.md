@@ -47,11 +47,3 @@ OAUTH_SERVER_URL=https://api.manus.im
 VITE_OAUTH_PORTAL_URL=https://oauth.manus.im
 BUILT_IN_FORGE_API_URL=https://api.manus.im
 BUILT_IN_FORGE_API_KEY=your_api_key_here
-
-**So in total, you should have copied:**
-1. ✅ First part: `# 256ROOTS' VOICE` to `Project Structure` (already done)
-2. ⬇️ Second part: `## 🚀 Getting Started` to the end with the heart emoji (copy this now)
-
-Once you paste both parts together in GitHub, you'll have the complete README! 
-
-Go ahead and copy the section above, then paste it all into GitHub. Let me know when you're done! 🚀
